@@ -52,5 +52,6 @@
     "audience": {
       "enable": false
     }
-  }
+  },
+  "start-scene": "0e50be23-8278-4b6f-a4aa-c720313ff0f9"
 }
