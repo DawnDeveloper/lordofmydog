@@ -7,11 +7,11 @@
         {
             "type": "pwa-node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "app",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\mmo_server\\dist\\app.js",
+            "program": "${workspaceFolder}\\dist\\app.js",
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]
